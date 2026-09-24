@@ -23,13 +23,6 @@ A modern and responsive weather prediction web application built using React, Ty
 - CSS
 - Lucide React
 
-## Supported Cities
-
-### India 🇮🇳
-Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Pune, Ahmedabad, Jaipur, Bhubaneswar, and Patna.
-
-### Nepal 🇳🇵
-Kathmandu, Pokhara, and Janakpur.
 
 ## Installation
 
